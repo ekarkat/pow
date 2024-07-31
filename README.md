@@ -1,1 +1,1 @@
-# pow
+# powf g
